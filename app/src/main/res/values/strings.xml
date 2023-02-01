@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Explore Jambi</string>
+    <string name="title_activity_maps_kerinci">MapsKerinci</string>
+    <string name="title_activity_maps_tujuh">MapsTujuh</string>
+    <string name="title_activity_maps_gentala">MapsGentala</string>
+    <string name="title_activity_maps_masurai">MapsMasurai</string>
+    <string name="title_activity_maps_terjun">MapsTerjun</string>
+    <string name="title_activity_maps_candi">MapsCandi</string>
+    <string name="title_activity_maps_kaco">MapsKaco</string>
+</resources>
